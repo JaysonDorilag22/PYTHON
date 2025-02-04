@@ -1,0 +1,8 @@
+streamlit
+plotly
+pandas
+pymongo
+scikit-learn
+folium
+streamlit-folium
+numpy
